@@ -1,6 +1,6 @@
 # MAIN base
-# baseURL = "https://apsho-hugo.netlify.app/"
-baseURL = "http://localhost/"
+ baseURL = "https://apsho-hugo.netlify.app/"
+#baseURL = "http://localhost/"
 languageCode = "en-us"
 title = "Presilia | Workforce Management"
 theme = "apsho"
