@@ -6,6 +6,8 @@ title = "Presilia | Workforce Management"
 theme = "apsho"
 
 DefaultContentLanguage = "en"
+defaultContentLanguageInSubdir= true
+
 [languages]
   [languages.en]
     title = "Presilia | Workforce Management"
