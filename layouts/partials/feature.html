@@ -34,6 +34,17 @@
               <p>
                 {{ .description2 }}
               </p>
+              <div class="feature-content-list">
+                <ul>
+                  {{ $Section := .checkItem }}
+                  {{ range $Section }}
+                    <li>
+                      <i class="ti-check"></i>
+                      <p> {{ .text }} </p>
+                    </li>
+                  {{ end }}
+                </ul>
+              </div>
               <a href="#" data-text={{ .buttonText }} class="btn btn-primary">
                 <span>{{ .buttonText }}</span>
               </a>
