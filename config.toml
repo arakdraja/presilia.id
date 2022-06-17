@@ -1,7 +1,8 @@
 # MAIN base
-baseURL = "https://apsho-hugo.netlify.app/"
+# baseURL = "https://apsho-hugo.netlify.app/"
+baseURL = "http://localhost/"
 languageCode = "en-us"
-title = "Apsho | App landing template"
+title = "Presilia | Workforce Management"
 theme = "apsho"
 
 # Navigation Bar
@@ -27,10 +28,10 @@ theme = "apsho"
     name = "Home"
     url = "#"
     weight = 1
-[[menu.sitemap]]
-    name = "Latest Article"
-    url = "/blog"
-    weight = 2
+##[[menu.sitemap]]
+##    name = "Latest Article"
+##    url = "/blog"
+##    weight = 2
 [[menu.sitemap]]
     name = "Privacy & Policy"
     url = "/privacy"
@@ -42,27 +43,27 @@ theme = "apsho"
 
 # Footer Address
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "apsho@example.com"
-phone = "+(448) 833 5272 332"
+address = "Jl. RS. Fatmawati no. 75"
+email = "info@presilia.id"
+phone = "+(62) 833 5272 332"
 
 # Footer Social
 [params.social]
-facebook = "https://www.facebook.com/pg/staticmania"
-twitter = "https://twitter.com/static_mania"
-github = "https://github.com/StaticMania"
+facebook = "https://www.facebook.com/pg/#"
+twitter = "https://twitter.com/#"
+github = "https://github.com/#"
 
 [params]
 
 # Header
 logo = "images/logo.png"
-formspreeURL = "https://formspree.io/mknyovwz"
+formspreeURL = "https://formspree.io/f/xyyovlpz"
 googleAnalytics = "UA-175025671-2"
 
 # Footer
-footerTitle = "Get the latest app updates"
+footerTitle = "Get the latest updates"
 copyright1 = "All right reserved"
-copyright2 = "Copyright © Apsho {year}"
+copyright2 = "Copyright © PT. Infomedia Solusi Humanika {year}"
 
 #contact
-email = "help@staticmania.com"
+email = "info@presilia.id"
