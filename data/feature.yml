@@ -1,14 +1,19 @@
 ---
 enable: true
-title: Ultimate experiences with story, emotion
-description: The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.Error6251 is the best, Bawds jog, flick quartz, vex nymphs.
-description2: Brick quiz whangs jumpy veldt fox. Bright vixens jump; dozy fowl quack. Quick wafting zephyrs.
-buttonText: Try It Free
-Title2nd: Product start analytics with real problems.
-description2nd: The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.Error6251 is the best, Bawds jog, flick quartz, vex nymphs.
+title: Reduce Labor Costs.
+description: Achieve bottom-line savings with automation and real-time insights.
+//description2: Brick quiz whangs jumpy veldt fox. Bright vixens jump; dozy fowl quack. Quick wafting zephyrs.
+//buttonText: Try It Free
+checkItem: 
+- text: Minimize your organization’s payroll leakage with digital enforcement of policies while easily identifying emerging labor trends within your workforce
+- text: Reduce your unplanned overtime costs with real-time notifications that alert when your employees are working outside of their scheduled hours
+- text: Support strategic decision making within your organization by classifying your employees’ time against any cost center or activity for granular labor reporting.
+Title2nd:Improve Operational Efficiency.
+description2nd: Eliminate error-prone and time-consuming manual processes, workarounds, and workflows..
 image1: images/feature/feature-illustration-one.svg
 image2: images/feature/feature-illustration-two.svg
 checkItem:
-  - text: Next to the hosting account you want to use.
-  - text: Select or enter the domain name you want to use.
-  - text: After you purchase a hosting plan.
+  - text: Apply your gross pay calculations and attendance policies in real-time as employee time is captured.
+  - text: Ensure compliant, efficient execution across locations with one document destination for team files, process, and reference materials.
+  - text: Prominently display your urgent messages and tasks to easily address with the click of a button.
+  - text: Integrate seamlessly with your HR and payroll systems for a complete end-to-end process.
