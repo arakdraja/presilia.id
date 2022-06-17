@@ -5,6 +5,17 @@ languageCode = "en-us"
 title = "Presilia | Workforce Management"
 theme = "apsho"
 
+DefaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    title = "Presilia | Workforce Management"
+    languageName = "English"
+    weight = 1
+  [languages.id]
+    title = "Presilia | Workforce Management"
+    languageName = "Bahasa Indonesia"
+    weight = 2
+
 # Navigation Bar
 [[menu.main]]
     name = "Home"
