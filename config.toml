@@ -13,7 +13,7 @@ DefaultContentLanguage = "en"
     weight = 1
   [languages.id]
     title = "Presilia | Workforce Management"
-    languageName = "Indonesian"
+    languageName = "Indonesia"
     weight = 2
 
 # Navigation Bar
