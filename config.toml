@@ -1,5 +1,6 @@
 # MAIN base
-baseURL = "https://apsho-hugo.netlify.app/"
+#baseURL = "https://apsho-hugo.netlify.app/"
+baseURL = "https://euphonious-dragon-a64645.netlify.app/"
 languageCode = "en-us"
 title = "Presilia | Workforce Management"
 theme = "apsho"
