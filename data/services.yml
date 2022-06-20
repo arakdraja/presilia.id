@@ -1,11 +1,11 @@
 #  icons can be found on https://themify.me/themify-icons
 ---
 enable: true
-title: You can benefit more than you think
+title: Empower Your Workforce
 services:
   - icon: ti-settings
-    title: No Setup
-    description: They generate alignment and engagement
+    title: Location Based Time and Attendance 
+    description: Proof of attendance and proposed a new time and attendance system based on location.
 
   - icon: ti-check-box
     title: Free Trial
