@@ -4,13 +4,12 @@ enable: true
 title: Empower Your Workforce
 services:
   - icon: ti-settings
-    title: Location Based Time and Attendance 
-    description: Proof of attendance and proposed a new time and attendance system based on location.
+    title: Accurately track employee location.
+    description: Some businesses require you to work across many locations, but how do you keep track of where your employees are? Presilia automatically tracks your employees’ GPS location, saving both you and them time.
 
   - icon: ti-check-box
-    title: Free Trial
-    description: They generate alignment and engagement
-
+    title: No internet? No problem
+    description: Employees can clock in and out with their GPS location and managers can track their attendance, all without an internet connection. Presilia's cutting-edge technology automatically syncs data when the connection is restored.
   - icon: ti-key
-    title: Quick Access
-    description: They generate alignment and engagement
+    title: Reminders and alerts when you need them.
+    description: Receive alerts when things go wrong. With our notification system, you can relax knowing we’ll tell you if there’s a problem.
