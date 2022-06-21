@@ -6,7 +6,6 @@ services:
   - icon: ti-settings
     title: Accurately track employee location.
     description: Some businesses require you to work across many locations, but how do you keep track of where your employees are? Presilia automatically tracks your employees’ GPS location, saving both you and them time.
-
   - icon: ti-check-box
     title: No internet? No problem
     description: Employees can clock in and out with their GPS location and managers can track their attendance, all without an internet connection. Presilia's cutting-edge technology automatically syncs data when the connection is restored.
