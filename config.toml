@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir= false
     weight = 3
 [[menu.sitemap]]
     name = "Terms & Conditions"
-    url = "/terms-and-conditions"
+    url = "/terms-and-conditions.md"
     weight = 4
 [[menu.sitemap]]
     name = "Contact"
