@@ -1,10 +1,9 @@
 ---
 title: Privacy & Policy
 description: >
-  Presilia.id | PT. Infomedia Solusi Humanika
----
+  Last updated: November 11, 2024
 
-Last updated: November 11, 2024
+---
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
