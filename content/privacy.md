@@ -1,5 +1,5 @@
 ---
-title: Privacy & Policy
+title: Privacy Policy
 description: >
   Last updated: November 11, 2024
 
