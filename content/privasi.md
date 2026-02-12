@@ -1,4 +1,4 @@
-# Kebijakan Privasi & Persetujuan PDP
+# Kebijakan Privasi dan Persetujuan PDP
 
 *Dimodifikasi pada: 21 Oktober 2025*
 
