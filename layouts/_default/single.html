@@ -1,25 +1,37 @@
 {{ define "main" }}
 
-<section class="page-header">
+
+<section class="page-header blog-single-header">
   <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-12 col-md-10 col-lg-8">
-        <h1>{{ .Title }}</h1>
-        <p>
-          {{ .Params.description }}
-        </p>
+    <div class="row">
+      <div class="col-lg-12">
+        <h2>
+          {{ .Title }}
+        </h2>
+        {{ if .Params.description }}
+        <div class="post-meta">
+          <ul>
+            <li>
+              <h5>
+                {{ .Params.description }}
+              </h5>
+            </li>
+          </ul>
+        </div>
+        {{ end }}
       </div>
     </div>
   </div>
 </section>
 
-<section class="page-content">
+
+<section class="blog-single">
   <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-12 col-md-10 col-lg-8">
-        <div class="page-content-wrapper">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <article class="blog-single-post">
           {{ .Content }}
-        </div>
+        </article>
       </div>
     </div>
   </div>
