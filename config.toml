@@ -48,11 +48,11 @@ defaultContentLanguageInSubdir= false
 ##    weight = 2
 [[menu.sitemap]]
     name = "Privacy & Policy"
-    url = "/privasi"
+    url = "/Privacy"
     weight = 3
 [[menu.sitemap]]
     name = "Terms & Conditions"
-    url = "/syarat-ketentuan"
+    url = "/terms-and-conditions"
     weight = 4
 [[menu.sitemap]]
     name = "Contact"
