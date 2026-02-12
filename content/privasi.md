@@ -147,60 +147,30 @@ memusnahkan Data Pribadi Anda.
 
 ### PELAKSANAAN HAK KARYAWAN
 
-Pelaksanaan hak-hak Anda sebagai
- subjek Data Pribadi, dilakukan dengan mengirimkan permintaan tertulis 
-kepada pusat layanan human capital sebagaimana tertera dalam bagian 
-Hubungi Kami di bawah. Selanjutnya, ISH secara maksimal akan 
-mengusahakan pelaksanaan atas hak Anda dan/atau penyampaian konfirmasi 
-dan/atau tanggapan atas permohonan Anda kepada ISH dalam jangka waktu 
-yang ditetapkan oleh Peraturan yang Berlaku, yakni paling lambat 3 x 24 
-(tiga kali dua puluh empat) jam sejak kami menerima antara lain: a) 
-permintaan penarikan kembali persetujuan Pemrosesan Data Pribadi; b) 
-permintaan perbaikan Data Pribadi; c) permintaan akses atas Data 
-Pribadi; dan/atau d) permohonan atas salinan Data Pribadi.
+Pelaksanaan hak-hak Anda sebagai subjek Data Pribadi, dilakukan dengan mengirimkan permintaan tertulis kepada pusat layanan human capital sebagaimana tertera dalam bagian Hubungi Kami di bawah. Selanjutnya, ISH secara maksimal akan mengusahakan pelaksanaan atas hak Anda dan/atau penyampaian konfirmasi dan/atau tanggapan atas permohonan Anda kepada ISH dalam jangka waktu yang ditetapkan oleh Peraturan yang Berlaku, yakni paling lambat 3 x 24 (tiga kali dua puluh empat) jam sejak kami menerima antara lain: 
+- permintaan penarikan kembali persetujuan Pemrosesan Data Pribadi;
+- permintaan perbaikan Data Pribadi; c) permintaan akses atas Data Pribadi; dan/atau
+- permohonan atas salinan Data Pribadi.
 
 KEAMANAN
 
-1. ISH berkomitmen untuk mengamankan Data Pribadi Anda. ISH telah
-menerapkan prosedur fisik, elektronik, dan organisasional yang sesuai
-untuk menjaga dan mengamankan Data Pribadi Anda. Langkah-langkah ini
-termasuk kontrol akses atas Data Pribadi Anda yang diproses ISH, sejauh
-mana relevan.
-2. ISH secara berkala meninjau praktik pengumpulan, penyimpanan, dan
-pemrosesan Data Pribadi, termasuk langkah-langkah keamanan fisik, untuk
-melindungi terhadap akses tidak sah ke sistem, dan membatasi akses ke
-Data Pribadi bagi karyawan, kontraktor, dan agen ISH yang perlu
-mengetahui informasi tersebut untuk memprosesnya untuk ISH, dan yang
-tunduk pada kewajiban kontraktual yang ketat dan dapat dikenakan sanksi
-atau diberhentikan jika mereka gagal memenuhi kewajiban ini.
-3. ISH mengikuti standar industri yang diterima secara umum untuk
-melindungi Data Pribadi yang Anda serahkan kepada ISH, baik selama
-pengiriman berlangsung maupun setelah ISH menerimanya. Tidak ada metode
-transmisi melalui internet, atau metode penyimpanan elektronik, yang
-sepenuhnya aman. Oleh karena itu, meskipun ISH berusaha menggunakan cara yang dapat diterima secara komersial untuk melindungi Data Pribadi
+1. ISH berkomitmen untuk mengamankan Data Pribadi Anda. ISH telah menerapkan prosedur fisik, elektronik, dan organisasional yang sesuai untuk menjaga dan mengamankan Data Pribadi Anda. Langkah-langkah ini termasuk kontrol akses atas Data Pribadi Anda yang diproses ISH, sejauh mana relevan.
+2. ISH secara berkala meninjau praktik pengumpulan, penyimpanan, dan pemrosesan Data Pribadi, termasuk langkah-langkah keamanan fisik, untuk melindungi terhadap akses tidak sah ke sistem, dan membatasi akses ke
+Data Pribadi bagi karyawan, kontraktor, dan agen ISH yang perlu mengetahui informasi tersebut untuk memprosesnya untuk ISH, dan yang tunduk pada kewajiban kontraktual yang ketat dan dapat dikenakan sanksi atau diberhentikan jika mereka gagal memenuhi kewajiban ini. 
+3. ISH mengikuti standar industri yang diterima secara umum untuk melindungi Data Pribadi yang Anda serahkan kepada ISH, baik selama pengiriman berlangsung maupun setelah ISH menerimanya. Tidak ada metode
+transmisi melalui internet, atau metode penyimpanan elektronik, yang sepenuhnya aman. Oleh karena itu, meskipun ISH berusaha menggunakan cara yang dapat diterima secara komersial untuk melindungi Data Pribadi
 Anda, ISH tidak dapat menjamin keamanan mutlaknya.
 
 PENGAKUAN DAN PERSETUJUAN
 
-1. Anda harus memastikan bahwa segala data yang diberikan dalam bentuk tertulis maupun bentuk lainnya untuk menjadi Karyawan ISH adalah benar
-milik Anda dan bukan diperoleh dari informasi pribadi milik pihak ketiga tanpa izin yang sah. Kami tidak bertanggung jawab atas kebenaran Data
-Pribadi yang Anda berikan kepada Kami.
-2. Anda mengakui bahwa Anda telah membaca dan memahami Employee
-Privacy Notice ini. Kami akan melakukan pemrosesan Data Pribadi Anda
-sesuai dengan Kebijakan Privasi ini.
-3. Anda memahami bahwa setiap pelanggaran ketentuan pidana
-Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi dan
-peraturan perundang-undangan relevan lainnya yang berlaku yang dilakukan secara perseorangan dan bukan secara korporasi menjadi tanggung jawab
-individu Karyawan dan bukan menjadi tanggung jawab Perusahaan.
-4. Jika Anda merupakan penyandang disabilitas yang tidak dapat
-memberikan persetujuan secara mandiri, maka sesuai dengan Peraturan yang Berlaku, Anda wajib memastikan telah mendapatkan persetujuan dari wali
-Anda.
+1. Anda harus memastikan bahwa segala data yang diberikan dalam bentuk tertulis maupun bentuk lainnya untuk menjadi Karyawan ISH adalah benar milik Anda dan bukan diperoleh dari informasi pribadi milik pihak ketiga tanpa izin yang sah. Kami tidak bertanggung jawab atas kebenaran Data Pribadi yang Anda berikan kepada Kami.
+2. Anda mengakui bahwa Anda telah membaca dan memahami Employee Privacy Notice ini. Kami akan melakukan pemrosesan Data Pribadi Anda sesuai dengan Kebijakan Privasi ini.
+3. Anda memahami bahwa setiap pelanggaran ketentuan pidana Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi dan peraturan perundang-undangan relevan lainnya yang berlaku yang dilakukan secara perseorangan dan bukan secara korporasi menjadi tanggung jawab individu Karyawan dan bukan menjadi tanggung jawab Perusahaan.
+4. Jika Anda merupakan penyandang disabilitas yang tidak dapat memberikan persetujuan secara mandiri, maka sesuai dengan Peraturan yang Berlaku, Anda wajib memastikan telah mendapatkan persetujuan dari wali Anda.
 
 HUBUNGI KAMI
 
-Dalam hal terdapat pertanyaan 
-atau kebutuhan terkait pelaksanaan Kebijakan Privasi ini, dapat 
-menghubungi Satgas PDP ISH dengan uraian sebagai berikut:
+Dalam hal terdapat pertanyaan atau kebutuhan terkait pelaksanaan Kebijakan Privasi ini, dapat menghubungi Satgas PDP ISH dengan uraian sebagai berikut:
 
 Alamat Korespondensi : Jl. RS Fatmawati No. 75, Jakarta Selatan, 12150
 
@@ -208,10 +178,4 @@ Email : [dpo@ish.co.id](mailto:dpo@ish.co.id)
 
 PEMBARUAN Kebijakan Privasi
 
-Kami sewaktu-waktu dapat 
-melakukan pembaruan Kebijakan Privasi ini. Setiap kali kami 
-melakukan perubahan, kami akan menyampaikan pemberitahuan kepada anda 
-sebelum perubahan tersebut berlaku secara efektif, serta melaksanakan 
-mekanisme lainnya sesuai yang diatur dalam Peraturan yang Berlaku, 
-misalnya seperti meminta persetujuan ulang dari Anda jika diperlukan 
-berdasarkan Peraturan yang Berlaku.
+Kami sewaktu-waktu dapat melakukan pembaruan Kebijakan Privasi ini. Setiap kali kami melakukan perubahan, kami akan menyampaikan pemberitahuan kepada anda sebelum perubahan tersebut berlaku secara efektif, serta melaksanakan mekanisme lainnya sesuai yang diatur dalam Peraturan yang Berlaku, misalnya seperti meminta persetujuan ulang dari Anda jika diperlukan berdasarkan Peraturan yang Berlaku.
