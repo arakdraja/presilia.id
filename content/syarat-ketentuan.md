@@ -17,7 +17,7 @@ Dengan menggunakan Situs dan/atau Aplikasi maka Anda dianggap telah membaca,  me
 3. **Data Profil** adalah data yang terdapat pada halaman profil bagi Pengguna.
 4. **Layanan** adalah Aplikasi Presilia web dan mobile  pengetahuan
 5. **Pengguna** adalah karyawan ISH yang sudah terdaftar pada Layanan Presilia.
-6. **Situs** adalah [https://app.oresilia.id/](https://app.presilia.id/).
+6. **Situs** adalah [https://app.presilia.id/](https://app.presilia.id/).
 
 ### **Penggunaan Akun dan Perilaku**
 
