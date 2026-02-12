@@ -1,18 +1,15 @@
 {{ define "main" }}
 
 <section class="page-header">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-8">
-        <h1>{{ .Title }}</h1>
-        <p>
-          {{ .Params.description }}
-        </p>
-      </div>
-       <div class="page-content-wrapper">
-          {{ .Content }}
-        </div>
-    </div>
+  <h1>{{ .Title }}</h1>
+  <p>
+    {{ .Params.description }}
+  </p>
+</section>
+
+<section class="page-content">
+  <div class="page-content-wrapper">
+    {{ .Content }}
   </div>
 </section>
 
