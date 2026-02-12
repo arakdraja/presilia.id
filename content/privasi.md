@@ -1,4 +1,4 @@
-# (Presilia) Kebijakan Privasi & Persetujuan PDP
+# Kebijakan Privasi & Persetujuan PDP
 
 *Dimodifikasi pada: 21 Oktober 2025*
 
